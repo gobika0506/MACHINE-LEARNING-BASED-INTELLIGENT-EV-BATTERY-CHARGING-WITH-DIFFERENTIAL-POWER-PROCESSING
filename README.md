@@ -1,0 +1,2 @@
+# MACHINE-LEARNING-BASED-INTELLIGENT-EV-BATTERY-CHARGING-WITH-DIFFERENTIAL-POWER-PROCESSING
+The increasing adoption of electric vehicles requires efficient and safe battery charging systems. This project proposes an intelligent EV battery charging system using Machine Learning and Differential Power Processing (DPP) to estimate battery health, predict remaining useful life, balance individual cells, and improve charging efficiency.
